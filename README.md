@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. This specific guide is designed for a broad audience — from non-technical users to IT professionals — making it accessible regardless of your technical background. <br />
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. This specific guide is designed for a broad audience, from non-technical users to IT professionals, making it accessible regardless of your technical background. <br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -13,7 +13,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b>
+- **Windows 10** used for installing and configuring osTicket
+
+A Windows 10 virtual machine was created using **Microsoft Azure**, with **macOS** as the host system.
 
 <h2>Ticket Lifecycle Stages</h2>
 
