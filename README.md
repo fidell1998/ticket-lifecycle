@@ -65,7 +65,7 @@ In this example, we’re using the agent account for **Spider-Man**. The ticket 
 
 Click the ticket to open it.
 
-<img width="973" height="647" alt="5" src="https://github.com/user-attachments/assets/72ae7fa0-93e1-4709-b57b-4d98a26f5664" />
+<img width="973" height="647" alt="5" src="https://github.com/user-attachments/assets/e416033e-eab7-4413-918a-6afa27f01f8c" />
 
 Once opened, you’ll be able to view all backend details associated with the ticket.  
 Because the agent account (e.g., Spider-Man) has full access, you have the ability to:
@@ -83,16 +83,28 @@ These administrative options help in managing the ticket's workflow effectively.
 
 <h3>Working the Issue</h3>
 
+The agent can now begin working on the ticket.  
+In this example, Spider-Man has added a response indicating that he is currently working on a solution.  
+This type of response is visible to both the **user** and the **support team**.
+
 <img width="958" height="259" alt="7" src="https://github.com/user-attachments/assets/d3e360f3-de64-4009-8298-26bf61766fef" />
 
-<img width="1024" height="380" alt="8" src="https://github.com/user-attachments/assets/918b8f0c-6ca3-435b-9889-34ba127bba39" />
+If you need to add internal updates or notes that should **not** be visible to the user, use the **"Post Internal Note"** section instead.  
+Internal notes are only visible to staff members and are useful for documenting progress or collaborating with other agents. 
 
-<br>
+<img width="1024" height="120" alt="8" src="https://github.com/user-attachments/assets/689f32d7-f671-45ac-8f3f-063fac979512" />
 
 <h3> Resolution </h3>
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+As progress is made on the ticket, the agent can leave updates for both the team and the user.  
+In this case, Spider-Man has identified and provided a solution to the issue.
+
+Once the solution has been communicated, the ticket status can be changed to **Resolved**.
+
+<img width="962" height="829" alt="9" src="https://github.com/user-attachments/assets/a3dae862-fa2a-4358-b904-d2e9e8e8f8ec" />
+
+After resolving the ticket, it is removed from the active ticket queue and no longer appears in the open tickets list.
+
+<img width="1022" height="461" alt="10" src="https://github.com/user-attachments/assets/ee61869e-a663-47b2-81ef-3361b72f85c9" />
 
 <br>
